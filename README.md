@@ -1,47 +1,48 @@
 Hello World, I'm Jhon Lloyd M. Valencia and I'm an aspiring Software Engineer. 
 ----------------------
-REACH ME:
+**REACH ME:**
 @jhonlloydval in IG
 @jhonlloydval14 in FB
 E-mail: jhonlloydval@gmail.com
 
-EDUCATIONAL BACKGROUND:
-1st Year Bachelor of Science in Computer Science in MSEUF - Lucena
+**EDUCATIONAL BACKGROUND:**
+1st Year Bachelor of Science in Computer Science at MSEUF - Lucena
 ISKOLAR ng BAYAN (DOST)
 
-PRONOUNS:
+**PRONOUNS:**
 he/him
 
-LOOKING FOR:
-I'm looking for friends I could share my journey with ^^
+**LOOKING FOR:**
+I'm looking for friends I can share my journey with ^^
 
 -----------------------------------------------------------------------------
 Just_a_little_story... = 
 """Along the pace of typing onto my keyboard trying to program a simple "Hello World", 
-is also a step towards the new passion I've found in that simple line of code.
+I also take a step toward the new passion I've found in that simple line of code.
 
-I was a shiftee from a medical field which costed me a year of doing something i'm slowly and surely getting tired of. 
+I was a shiftee from a medical field that cost me a year of doing something i'm slowly and surely getting tired of. 
 I thought that I'll be forever in that field, draining myself for years of uncertainty and lack of passion. However,
-I've made a really life changing decision, shifting to Computer Science field. Now, I could proudly say I'm in the right track.
+I made a really life - changing decision by shifting to the field of Computer Science. Now, I can proudly say that I'm on the right track.
 I know that life has always been a race, sadly.
-However, there's no point trying to win that race society have pushed me if i'm not running for a future I dreamt for myself.
+However, there's no point in trying to win a race society has pushed me into if i'm not running for a future I dream of for myself.
 
-Right now, October 11, 2024, the day I updated my profile here in github with no repositories or even proudly achievements I could share, I shall slowly
-integrate myself in this field. I've been doing codes for the whole month already, without stopping, only little water breaks and cat petting time. I hope the future treats me well.
-Regardless, I know I will still be successful someday. Surely in this field ^^ """
+As of today October 11, 2024, the day I updated my profile here on Github (with no repositories or even achievements I can proudlu share YET), I am slowly
+integrating myself into this field. I've been coding for the whole month already, without stopping, only little water breaks and cat petting time. I hope the future treats me well.
+Regardless, I know I will be successful someday, surely in this field ^^ """
 
 -----------------------------------------------------------------------------
 I'm_interested_in... =
-""" In terms of areas of my major, currently, since I only started coding and I only know simple here and there concepts oblivious of this career's hardships, I still have a lot of fields i'm eyeing for. I know I should only be focusing on areas I'm comfortable or where I excel or where I'm passionate, per adviced by many, 
+""" In terms of my major, since I only just started coding and only know simple concepts here and there, oblivious to those career's hardships, I still have a lot of fields i'm eyeing. I know I should be focusing on areas where I'm comfortable, where I excel, or where I'm passionate, as many have advised me, 
 but there's no stopping a hopeful teen's curious mind. 
 
-My first choice as of the moment (10/11/2024) is being a Full Stack Web Developer, more focused on the front end. I really love designing, I've always been picky on every works I'm doing, even taking me quite a few days of editing a photo of something that will only be seen by 200 people for 24 hours on my IG story. I'm aiming to make a website portfolio sooner or later to prove it to you guys ehe.
-Stories aside, I just really find it interesting especially that I follow a certain Filipino software engineer in youtube named "Heremyas", and he really inspired me (ps. Follow him please, would love to see him grow more)."""
+My first choice, as of the moment (10/11/2024), is to become a Full Stack Web Developer, with more focus on the front end. I really love designing. I've always been picky on every work I do, even taking me quite a few days of editing a photo of something that will only be seen by 200 people for 24 hours on my IG story. I'm aiming to make a website portfolio sooner or later to prove my skills to you guys ehe.
+Stories aside, I just really find it interesting, especially since I follow a certain Filipino software engineer on YouTube named "Heremyas", and he really inspires me (ps. Follow him, please. I'd love to see him grow more!)."""
 
 -----------------------------------------------------------------------------
 My_love_language = 
-""" Hmmm, now that I think about it, I find a conyo speaking person hot, maybe it's my love language (jk). PYTHONNN! For better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part. I'm still torn to what language I will learn next. The second semester on my major will 
-focus on MySQL but my friends say I should learn Java, harvard course also keeps bugging me to learn C, however my heart says HTML and CSS (PLEASE HELP ME DECIDE OR ELSE I'M GONNA S...). Totally fine whichever I end up with since I'll learn all those someday anyways. """
+""" Hmmm, now that I think about it, I find a conyo speaking person hot, maybe it's my love language (jk). PYTHONNN! For better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part. 
+I'm still torn about which language I will learn next. The second semester of my major will 
+focus on MySQL, but my friends say I should learn Java. Harvard's course also keeps bugging me to learn C, however my heart says HTML and CSS (PLEASE HELP ME DECIDE OR ELSE I'M GONNA S...). Totally fine with whichever I end up with since I'll learn all those someday anyway. """
 
 
 I'LL UPDATE MY PROFILE FOR LIL UPDATES
