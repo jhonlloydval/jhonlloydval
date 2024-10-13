@@ -26,7 +26,7 @@ I made a really life - changing decision by shifting to the field of Computer Sc
 I know that life has always been a race, sadly.
 However, there's no point in trying to win a race society has pushed me into if i'm not running for a future I dream of for myself.
 
-As of today October 11, 2024, the day I updated my profile here on Github (with no repositories or even achievements I can proudlu share YET), I am slowly
+As of today October 11, 2024, the day I updated my profile here on Github (with no repositories or even achievements I can proudly share YET), I am slowly
 integrating myself into this field. I've been coding for the whole month already, without stopping, only little water breaks and cat petting time. I hope the future treats me well.
 Regardless, I know I will be successful someday, surely in this field ^^ """
 
