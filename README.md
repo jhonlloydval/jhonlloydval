@@ -16,7 +16,7 @@ he/him
 I'm looking for friends I can share my journey with ^^
 
 -----------------------------------------------------------------------------
-Just_a_little_story... = 
+just_A_Little_Story... = 
 """Along the pace of typing onto my keyboard trying to program a simple "Hello World", 
 I also take a step toward the new passion I've found in that simple line of code.
 
@@ -31,7 +31,7 @@ integrating myself into this field. I've been coding for the whole month already
 Regardless, I know I will be successful someday, surely in this field ^^ """
 
 -----------------------------------------------------------------------------
-I'm_interested_in... =
+i'm_Interested_In... =
 """ In terms of my major, since I only just started coding and only know simple concepts here and there, oblivious to those career's hardships, I still have a lot of fields i'm eyeing. I know I should be focusing on areas where I'm comfortable, where I excel, or where I'm passionate, as many have advised me, 
 but there's no stopping a hopeful teen's curious mind. 
 
@@ -39,7 +39,7 @@ My first choice, as of the moment (10/11/2024), is to become a Full Stack Web De
 Stories aside, I just really find it interesting, especially since I follow a certain Filipino software engineer on YouTube named "Heremyas", and he really inspires me (ps. Follow him, please. I'd love to see him grow more!)."""
 
 -----------------------------------------------------------------------------
-My_love_language = 
+my_Love_Language = 
 """ Hmmm, now that I think about it, I find a conyo speaking person hot, maybe it's my love language (jk). PYTHONNN! For better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part. 
 I'm still torn about which language I will learn next. The second semester of my major will 
 focus on MySQL, but my friends say I should learn Java. Harvard's course also keeps bugging me to learn C, however my heart says HTML and CSS (PLEASE HELP ME DECIDE OR ELSE I'M GONNA S...). Totally fine with whichever I end up with since I'll learn all those someday anyway. """
