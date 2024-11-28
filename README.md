@@ -40,9 +40,10 @@ Stories aside, I just really find it interesting, especially since I follow a ce
 
 -----------------------------------------------------------------------------
 my_Love_Language = 
-""" Hmmm, now that I think about it, I find a conyo speaking person hot, maybe it's my love language (jk). PYTHONNN! For better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part. 
+""" PYTHONNN! For better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part. 
+
 I'm still torn about which language I will learn next. The second semester of my major will 
-focus on MySQL, but my friends say I should learn Java. Harvard's course also keeps bugging me to learn C, however my heart says HTML and CSS (PLEASE HELP ME DECIDE OR ELSE I'M GONNA S...). Totally fine with whichever I end up with since I'll learn all those someday anyway. """
+focus on MySQL, but my friends say I should learn Java. Harvard's course also keeps bugging me to learn C, however my heart says HTML and CSS (PLEASE HELP ME DECIDE OR ELSE I'M GONNA S...) (Update 11/15/24: I started C!!! and a little html/css/js). Totally fine with whichever I end up with since I'll learn all those someday anyway. """
 
 
 I'LL UPDATE MY PROFILE FOR LIL UPDATES
