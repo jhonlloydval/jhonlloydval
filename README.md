@@ -35,7 +35,7 @@ i'm_Interested_In... =
 """ In terms of my major, since I only just started coding and only know simple concepts here and there, oblivious to those career's hardships, I still have a lot of fields i'm eyeing. I know I should be focusing on areas where I'm comfortable, where I excel, or where I'm passionate, as many have advised me, 
 but there's no stopping a hopeful teen's curious mind. 
 
-My first choice, as of the moment (10/11/2024), is to become a Full Stack Web Developer, with more focus on the front end. I really love designing. I've always been picky on every work I do, even taking me quite a few days of editing a photo of something that will only be seen by 200 people for 24 hours on my IG story. I'm aiming to make a website portfolio sooner or later to prove my skills to you guys ehe.
+My first choice, as of the moment (10/11/2024), is to become a Full Stack Web Developer, with more focus on the front end. I really love designing. I've always been picky on every work I do, even taking me quite a few days of editing a photo of something that will only be seen by 200 people for 24 hours on my IG story. I'm aiming to make a website portfolio sooner or later to prove my skills to you guys ehe (Update 11/27/24: I already made one, it's on my repositories!!!).
 Stories aside, I just really find it interesting, especially since I follow a certain Filipino software engineer on YouTube named "Heremyas", and he really inspires me (ps. Follow him, please. I'd love to see him grow more!)."""
 
 -----------------------------------------------------------------------------
