@@ -211,7 +211,7 @@ Millions of Filipino students navigate college planning with zero structured gui
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 ### Scholarships
 
@@ -298,15 +298,52 @@ Millions of Filipino students navigate college planning with zero structured gui
 
 ## 🤝 Leadership & Positions
 
-| Role | Organization | Period |
-|:-----|:-------------|:------:|
-| **President-Elect** | MSEUF DOST Scholars' Guild | Current |
-| Former Deputy Secretary | MSEUF DOST Scholars' Guild | Former |
-| Academic Team Member | College of Computing & Multimedia Studies, MSEUF | Current |
-| Member | MASTECH | Current |
-| Member | iSITE | Current |
-| Delegate | DOST-SEI Scholars Leadership Conference — Quezon Province | 2024 |
-| Scholar | START × DataCamp Donates Program | 2025 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Role</th>
+      <th align="left">Organization</th>
+      <th align="center">Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>President-Elect</b></td>
+      <td>MSEUF DOST Scholars' Guild</td>
+      <td align="center">Current</td>
+    </tr>
+    <tr>
+      <td>Former Deputy Secretary</td>
+      <td>MSEUF DOST Scholars' Guild</td>
+      <td align="center">Former</td>
+    </tr>
+    <tr>
+      <td>Academic Team Member</td>
+      <td>College of Computing &amp; Multimedia Studies, MSEUF</td>
+      <td align="center">Current</td>
+    </tr>
+    <tr>
+      <td>Member</td>
+      <td>MASTECH</td>
+      <td align="center">Current</td>
+    </tr>
+    <tr>
+      <td>Member</td>
+      <td>iSITE</td>
+      <td align="center">Current</td>
+    </tr>
+    <tr>
+      <td>Delegate</td>
+      <td>DOST-SEI Scholars Leadership Conference - Quezon Province</td>
+      <td align="center">2024</td>
+    </tr>
+    <tr>
+      <td>Scholar</td>
+      <td>START x DataCamp Donates Program</td>
+      <td align="center">2025</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
