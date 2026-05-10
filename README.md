@@ -4,7 +4,7 @@
 <tr>
 <td width="58%" valign="top">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=900&color=2DE2C8&vCenter=true&width=540&height=44&lines=Computer+Science+Student;Full-Stack+Developer;Flutter+%26+Dart+Engineer;DOST-SEI+Scholar+%7C+MSEUF;Building+in+Public)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=900&color=2DE2C8&vCenter=true&width=540&height=44&lines=Computer+Science+Student;Full-Stack+Developer;DOST-SEI+Scholar+%7C+MSEUF;Building+in+Public)](https://git.io/typing-svg)
 
 CS student at **MSEUF**, DOST-SEI Scholar, and product-focused developer building with Flutter, Node.js, and a growing interest in Data Science & AI. I value thoughtful UI decisions and solid technical foundations equally.
 
