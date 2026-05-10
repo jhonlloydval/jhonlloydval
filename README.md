@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e0c,40:0a2218,100:0d3830&height=220&section=header&text=Jhon%20Lloyd%20Valencia&fontSize=56&fontColor=2DE2C8&fontAlignY=36&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Flutter%20Engineer&descSize=18&descAlignY=57&descColor=8CF5EB" width="100%"/>
 
 <br/>
-
 <table>
 <tr>
 <td width="58%" valign="middle">
