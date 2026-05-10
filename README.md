@@ -355,8 +355,6 @@ Millions of Filipino students navigate college planning with zero structured gui
 
 </div>
 
-> **Note:** To enable the snake animation, add the [GitHub Actions workflow](#-setup-snake-workflow) to your profile repository.
-
 ---
 
 ## 💭 Philosophy
