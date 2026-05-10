@@ -23,7 +23,7 @@ CS student at **MSEUF**, DOST-SEI Scholar, and product-focused developer buildin
 <br/>
 
 🎓 &nbsp;**BS Computer Science** — MSEUF<br/>
-🏅 &nbsp;DOST-SEI Scholar &nbsp;·&nbsp; GWA 1.24<br/>
+🏅 &nbsp;DOST-SEI Scholar<br/>
 📍 &nbsp;Lucena City, Philippines (UTC+8)<br/>
 💬 &nbsp;Open to opportunities — 2026
 
