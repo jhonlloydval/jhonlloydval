@@ -1,21 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e0c,40:0a2218,100:0d3830&height=220&section=header&text=Jhon%20Lloyd%20Valencia&fontSize=56&fontColor=2DE2C8&fontAlignY=36&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Flutter%20Engineer&descSize=18&descAlignY=57&descColor=8CF5EB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e0c,40:0a2218,100:0d3830&height=180&section=header&text=Jhon%20Lloyd%20Valencia&fontSize=52&fontColor=2DE2C8&fontAlignY=34&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Flutter%20Engineer&descSize=17&descAlignY=54&descColor=8CF5EB" width="100%"/>
 
-<br/>
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="58%" valign="top">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=900&color=2DE2C8&vCenter=true&width=540&height=44&lines=Computer+Science+Student;Full-Stack+Developer;Flutter+%26+Dart+Engineer;DOST-SEI+Scholar+%7C+MSEUF;Building+in+Public)](https://git.io/typing-svg)
 
-<br/>
-
-> CS student at **MSEUF**, DOST-SEI Scholar, and product-focused developer building with Flutter, Node.js, and a growing interest in Data Science & AI. I value thoughtful UI decisions and solid technical foundations equally.
-
-<br/>
+CS student at **MSEUF**, DOST-SEI Scholar, and product-focused developer building with Flutter, Node.js, and a growing interest in Data Science & AI. I value thoughtful UI decisions and solid technical foundations equally.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhonlloydval&color=2DE2C8&style=flat-square&label=Profile+Views)&nbsp;![Status](https://img.shields.io/badge/Status-Available-2DE2C8?style=flat-square&labelColor=0D3030)&nbsp;![Location](https://img.shields.io/badge/📍-Lucena_City,_PH-0D3030?style=flat-square)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonlloydval)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonlloydval@gmail.com)
@@ -23,11 +16,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhonlloydval)
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="42%" align="center" valign="top">
 
-<img src="https://github.com/jhonlloydval.png" width="190"/>
+<img src="https://github.com/jhonlloydval.png" width="165"/>
 
-<br/><br/>
+<br/>
 
 🎓 &nbsp;**BS Computer Science** — MSEUF<br/>
 🏅 &nbsp;DOST-SEI Scholar &nbsp;·&nbsp; GWA 1.24<br/>
