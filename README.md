@@ -211,7 +211,7 @@ Millions of Filipino students navigate college planning with zero structured gui
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
 ### Scholarships
 
