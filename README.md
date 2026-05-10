@@ -1,49 +1,41 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:091820,100:0D3030&height=170&section=header&text=JHON%20LLOYD%20VALENCIA&fontSize=42&fontColor=2DE2C8&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Developer%20·%20CS%20Student%20·%20Flutter%20Engineer&descSize=16&descAlignY=78&descColor=8FFFF5" width="100%"/>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e0c,40:0a2218,100:0d3830&height=220&section=header&text=Jhon%20Lloyd%20Valencia&fontSize=56&fontColor=2DE2C8&fontAlignY=36&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Flutter%20Engineer&descSize=18&descAlignY=57&descColor=8CF5EB" width="100%"/>
 
 <br/>
 
-<img src="https://github.com/jhonlloydval.png" width="115" style="border-radius: 50%;"/>
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=2DE2C8&center=true&vCenter=true&width=620&height=55&lines=Computer+Science+Student;Full-Stack+Developer;Flutter+%26+Dart+Engineer;DOST-SEI+Scholar+%7C+MSEUF;Building+in+Public)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=900&color=2DE2C8&vCenter=true&width=540&height=44&lines=Computer+Science+Student;Full-Stack+Developer;Flutter+%26+Dart+Engineer;DOST-SEI+Scholar+%7C+MSEUF;Building+in+Public)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jhonlloydval&color=2DE2C8&style=flat-square&label=Profile+Views)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_Lucena_City-Philippines-0D2E28?style=flat-square&color=0D3030&labelColor=0D3030&logoColor=2DE2C8)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Available-2DE2C8?style=flat-square&labelColor=0D3030)
+> CS student at **MSEUF**, DOST-SEI Scholar, and product-focused developer building with Flutter, Node.js, and a growing interest in Data Science & AI. I value thoughtful UI decisions and solid technical foundations equally.
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jhonlloydval&color=2DE2C8&style=flat-square&label=Profile+Views)&nbsp;![Status](https://img.shields.io/badge/Status-Available-2DE2C8?style=flat-square&labelColor=0D3030)&nbsp;![Location](https://img.shields.io/badge/📍-Lucena_City,_PH-0D3030?style=flat-square)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonlloydval)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonlloydval)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonlloydval@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jhonlloydval14)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhonlloydval)
 
-</div>
+</td>
+<td width="42%" align="center" valign="middle">
 
----
+<img src="https://github.com/jhonlloydval.png" width="190"/>
 
-## ⚡ About Me
+<br/><br/>
 
-I'm **Jhon Lloyd Montalbo Valencia**, a Computer Science student at **Manuel S. Enverga University Foundation (MSEUF)** and a **DOST-SEI Merit Scholar**. I build product-focused software where clean design meets solid engineering — with a strong focus on **Flutter**, **full-stack architecture**, and experiences that are fast, polished, and intentional.
+🎓 &nbsp;**BS Computer Science** — MSEUF<br/>
+🏅 &nbsp;DOST-SEI Scholar &nbsp;·&nbsp; GWA 1.24<br/>
+📍 &nbsp;Lucena City, Philippines (UTC+8)<br/>
+💬 &nbsp;Open to opportunities — 2026
 
-Beyond mobile and web, I'm actively developing skills in **Data Science and AI** — working toward a future where I can engineer intelligent, scalable systems with real-world impact.
-
-<table>
-<tr>
-<td>🎓 <b>BS Computer Science</b> — MSEUF | DOST-SEI Scholar</td>
-<td>🏆 University Scholar — GWA 1.24</td>
-</tr>
-<tr>
-<td>📍 Lucena City, Philippines (UTC+8)</td>
-<td>💬 Open to collaboration & opportunities starting 2026</td>
+</td>
 </tr>
 </table>
 
@@ -57,7 +49,7 @@ Beyond mobile and web, I'm actively developing skills in **Data Science and AI**
 <tr>
 <td>
 
-![Jhon Lloyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonlloydval&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2DE2C8&text_color=C9F0EA&icon_color=2DE2C8&border_color=1A3A36)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonlloydval&theme=tokyonight)
 
 </td>
 <td>
@@ -70,11 +62,19 @@ Beyond mobile and web, I'm actively developing skills in **Data Science and AI**
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonlloydval&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DE2C8&text_color=C9F0EA&border_color=1A3A36&langs_count=10)
-
-<br/>
-
 <table>
+<tr>
+<td>
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonlloydval&theme=tokyonight)
+
+</td>
+<td>
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonlloydval&theme=tokyonight&utcOffset=8)
+
+</td>
+</tr>
 <tr>
 <td>
 
@@ -349,3 +349,49 @@ Millions of Filipino students navigate college planning with zero structured gui
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3030,100:091820&height=100&section=footer" width="100%"/>
 
 ---
+
+<!-- ============================================================
+     SETUP INSTRUCTIONS (Remove this section from your README)
+     ============================================================
+
+## ⚙️ Setup Snake Workflow
+
+Create `.github/workflows/snake.yml` in your jhonlloydval/jhonlloydval repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After the workflow runs, the snake SVG will be at:
+https://raw.githubusercontent.com/jhonlloydval/jhonlloydval/output/github-contribution-grid-snake-dark.svg
+
+================================================================= -->
