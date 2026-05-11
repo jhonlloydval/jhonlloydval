@@ -226,7 +226,7 @@ Millions of Filipino students navigate college planning with zero structured gui
 
 - 💻 **CodeChum National Programming Challenge S2** — Group Stage (2025)
 - 🤖 **National AI Prompt Design Challenge (NAIPDC)** — Team S207 (2025)
-- 🏆 **DOST-SEI Scholars Leadership Conference** — Delegate, Quezon Province (2024)
+- 🏆 **DOST-SEI Scholars Leadership Conference** — Delegate, Quezon Province (2026)
 
 </td>
 </tr>
@@ -323,7 +323,7 @@ Millions of Filipino students navigate college planning with zero structured gui
       <td align="center">Current</td>
     </tr>
     <tr>
-      <td>Member (2025+)</td>
+      <td>Member (2025 +)</td>
       <td>MSEUF Association of Multimedia Artists and Technologists</td>
       <td align="center">Current</td>
     </tr>
