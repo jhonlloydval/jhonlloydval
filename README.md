@@ -308,37 +308,37 @@ Millions of Filipino students navigate college planning with zero structured gui
   </thead>
   <tbody>
     <tr>
-      <td><b>President-Elect</b></td>
+      <td><b>President-Elect (2026 - 2027)</b></td>
       <td>MSEUF DOST Scholars' Guild</td>
       <td align="center">Current</td>
     </tr>
     <tr>
-      <td>Former Deputy Secretary</td>
+      <td>Former Deputy Secretary (2025 - 2026)</td>
       <td>MSEUF DOST Scholars' Guild</td>
       <td align="center">Former</td>
     </tr>
     <tr>
-      <td>Academic Team Member</td>
+      <td>Academic Team Member (2025 +)</td>
       <td>College of Computing &amp; Multimedia Studies, MSEUF</td>
       <td align="center">Current</td>
     </tr>
     <tr>
-      <td>Member</td>
+      <td>Member (2025+)</td>
       <td>MSEUF Association of Multimedia Artists and Technologists</td>
       <td align="center">Current</td>
     </tr>
     <tr>
-      <td>Member</td>
+      <td>Member (2026 +)</td>
       <td>iSITE</td>
       <td align="center">Current</td>
     </tr>
     <tr>
-      <td>Delegate</td>
+      <td>Delegate (2026)</td>
       <td>DOST-SEI Scholars Leadership Conference - Quezon Province</td>
       <td align="center">2024</td>
     </tr>
     <tr>
-      <td>Scholar</td>
+      <td>Scholar (2025 - 2026)</td>
       <td>START x DataCamp Donates Program</td>
       <td align="center">2025</td>
     </tr>
