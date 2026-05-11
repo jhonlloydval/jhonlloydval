@@ -324,7 +324,7 @@ Millions of Filipino students navigate college planning with zero structured gui
     </tr>
     <tr>
       <td>Member</td>
-      <td>MASTECH</td>
+      <td>MSEUF Association of Multimedia Artists and Technologists</td>
       <td align="center">Current</td>
     </tr>
     <tr>
