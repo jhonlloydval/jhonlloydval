@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=900&color=2DE2C8&vCenter=true&width=540&height=44&lines=Computer+Science+Student;Software+Engineer;DOST-SEI+Scholar+%7C+MSEUF;Building+in+Public)](https://git.io/typing-svg)
 
-CS student at **MSEUF**, DOST-SEI Scholar, and product-focused developer building with Flutter, Node.js, and a growing interest in Data Science & AI. I value thoughtful UI decisions and solid technical foundations equally.
+CS student at **MSEUF**, DOST-SEI Merit Scholar, and product-focused developer building with Flutter, Node.js, and a growing interest in Data Science & AI. I value thoughtful UI decisions and solid technical foundations equally.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhonlloydval&color=2DE2C8&style=flat-square&label=Profile+Views)&nbsp;![Status](https://img.shields.io/badge/Status-Available-2DE2C8?style=flat-square&labelColor=0D3030)&nbsp;![Location](https://img.shields.io/badge/📍-Lucena_City,_PH-0D3030?style=flat-square)
 
