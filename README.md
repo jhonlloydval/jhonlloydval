@@ -33,6 +33,59 @@ CS student at **MSEUF**, DOST-SEI Merit Scholar, and product-focused developer b
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Mobile & Frontend
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-2DE2C8?style=flat-square&logoColor=white)
+
+### Data & AI
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+### Tools & Design
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,62 +152,9 @@ CS student at **MSEUF**, DOST-SEI Merit Scholar, and product-focused developer b
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jhonlloydval&theme=tokyonight&no-frame=true&column=7&margin-w=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jhonlloydval&theme=tokyonight&no-frame=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Mobile & Frontend
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-2DE2C8?style=flat-square&logoColor=white)
-
-### Data & AI
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Databases & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-
-### Tools & Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
@@ -188,6 +188,74 @@ Millions of Filipino students navigate college planning with zero structured gui
 `SDG 8` Decent Work & Growth<br/>
 `SDG 9` Innovation & Infrastructure<br/>
 `SDG 10` Reduced Inequalities
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⭐ Haive — Modular AI Tools Platform
+
+> *A prompt-engineered GenAI platform with 13 specialized assistants — runs fully local, no cloud API required.*
+
+<table>
+<tr>
+<td width="58%">
+
+**Haive** organizes AI capabilities into focused, task-specific assistants called **Hives** — each purpose-built for a specific user role or workflow. Ships with a general-purpose open chat (HAIVE) plus 12 specialized Hives across academic, professional, wellness, and media categories. Includes a RAG engine (ChromaDB + nomic-embed-text) and a no-code Custom Tool Builder.
+
+Built as a capstone project for the openIT Data Science Bootcamp at MSEUF, addressing the AI usability gap among Filipino workers and students.
+
+**Stack:** `Python` `Streamlit` `Ollama` `ChromaDB` `Prompt Engineering` `RAG`
+
+**Status:** 🟢 Prototype Complete
+
+</td>
+<td width="42%" align="center">
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-Haive-2DE2C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonlloydval/Haive)
+
+<br/>
+
+**Highlights:**<br/>
+`13 Specialized Hives`<br/>
+`RAG-Powered Fact Checker`<br/>
+`No-Code Tool Builder`<br/>
+`Fully Local & Private`
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⭐ Lloyd Interactive Portfolio — Flutter Multi-Platform App
+
+> *A polished, multi-platform personal portfolio built with Flutter — web, mobile, and desktop.*
+
+<table>
+<tr>
+<td width="58%">
+
+**Lloyd Interactive Portfolio** is a production-ready Flutter application that serves as a digital showcase for professional identity, project work, technical skills, academic background, and certifications. Features a **20-palette dynamic theme switcher**, ambient background animations, animated onboarding, and a floating navigation bar — all from a single codebase targeting Web, iOS, Android, macOS, Linux, and Windows.
+
+**Stack:** `Flutter` `Dart` `shared_preferences` `google_fonts` `ValueNotifier`
+
+**Status:** 🟢 Live on Web
+
+</td>
+<td width="42%" align="center">
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-Portfolio-2DE2C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonlloydval/jhonlloydval_mobile_portfolio)
+
+<br/>
+
+**Highlights:**<br/>
+`20 Dynamic Themes`<br/>
+`Cross-Platform (6 targets)`<br/>
+`Animated Onboarding`<br/>
+`Persistent Theme Storage`
 
 </td>
 </tr>
@@ -376,49 +444,3 @@ Millions of Filipino students navigate college planning with zero structured gui
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3030,100:091820&height=100&section=footer" width="100%"/>
 
 ---
-
-<!-- ============================================================
-     SETUP INSTRUCTIONS (Remove this section from your README)
-     ============================================================
-
-## ⚙️ Setup Snake Workflow
-
-Create `.github/workflows/snake.yml` in your jhonlloydval/jhonlloydval repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After the workflow runs, the snake SVG will be at:
-https://raw.githubusercontent.com/jhonlloydval/jhonlloydval/output/github-contribution-grid-snake-dark.svg
-
-================================================================= -->
