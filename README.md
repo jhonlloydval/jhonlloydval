@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e0c,40:0a2218,100:0d3830&height=180&section=header&text=Jhon%20Lloyd%20Valencia&fontSize=52&fontColor=2DE2C8&fontAlignY=34&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Data%20Science%20%26%20AI%20%C2%B7%20Software%20Engineer&descSize=17&descAlignY=54&descColor=8CF5EB" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <table>
 <tr>
@@ -132,4 +132,4 @@ More on my [GitHub](https://github.com/jhonlloydval?tab=repositories): EU-WALL, 
 **BS Computer Science**, Manuel S. Enverga University Foundation (2023–present)  
 Senior High School (STEM), Quezon National High School, graduated with High Honors
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3030,100:091820&height=80&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
