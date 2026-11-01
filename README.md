@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e0c,40:0a2218,100:0d3830&height=180&section=header&text=Jhon%20Lloyd%20Valencia&fontSize=52&fontColor=2DE2C8&fontAlignY=34&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Software%20Engineer&descSize=17&descAlignY=54&descColor=8CF5EB" width="100%"/>
 
 <table>
 <tr>
