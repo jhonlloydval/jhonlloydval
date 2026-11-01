@@ -23,7 +23,7 @@ CS student at **MSEUF**, DOST-SEI Merit Scholar, and President of the MSEUF DOST
 <br/>
 
 🎓 &nbsp;**BS Computer Science** — MSEUF<br/>
-🏅 &nbsp;DOST-SEI Scholar<br/>
+🏅 &nbsp;DOST-SEI Merit Scholar<br/>
 🤝 &nbsp;President, DOST Scholars' Guild<br/>
 🏆 &nbsp;Top 15 of 144 — PSC XI<br/>
 📍 &nbsp;Lucena City, Philippines<br/>
