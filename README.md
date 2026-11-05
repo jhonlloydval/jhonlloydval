@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=900&color=2DE2C8&vCenter=true&width=540&height=44&lines=Computer+Science+Student;Building+AI+for+Community+Impact;DOST-SEI+Scholar+%7C+MSEUF;President%2C+MSEUF+DOST+Scholars'+Guild)](https://git.io/typing-svg)
 
-CS student at **MSEUF**, DOST-SEI Merit Scholar, and President of the MSEUF DOST Scholars' Guild. I build AI and full-stack products for community problems, from health and energy to fisheries and education, with Flutter, React, Node.js and Python. **Top 15 of 144 teams at the Philippine Startup Challenge XI (DICT).**
+CS student at **MSEUF**, DOST-SEI Merit Scholar, and President of the MSEUF DOST Scholars' Guild. I build AI and full-stack products for community problems, from health and energy to fisheries and education, with Flutter, React, Node.js and Python. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhonlloydval&color=2DE2C8&style=flat-square&label=Profile+Views)&nbsp;![Status](https://img.shields.io/badge/Status-Available-2DE2C8?style=flat-square&labelColor=0D3030)&nbsp;![Location](https://img.shields.io/badge/📍-Lucena_City,_PH-0D3030?style=flat-square)
 
@@ -25,7 +25,6 @@ CS student at **MSEUF**, DOST-SEI Merit Scholar, and President of the MSEUF DOST
 🎓 &nbsp;**BS Computer Science** — MSEUF<br/>
 🏅 &nbsp;DOST-SEI Merit Scholar<br/>
 🤝 &nbsp;President, DOST Scholars' Guild<br/>
-🏆 &nbsp;Top 15 of 144 — PSC XI<br/>
 📍 &nbsp;Lucena City, Philippines<br/>
 💬 &nbsp;Open to opportunities — 2026
 
