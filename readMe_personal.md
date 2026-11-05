@@ -46,5 +46,7 @@ I'm still torn about which language I will learn next. The second semester of my
 focus on MySQL, but my friends say I should learn Java. Harvard's course also keeps bugging me to learn C, however my heart says HTML and CSS (PLEASE HELP ME DECIDE OR ELSE I'M GONNA S...) (Update 11/15/24: I started C!!! and a little html/css/js). Totally fine with whichever I end up with since I'll learn all those someday anyway. """
 
 
-I'LL UPDATE MY PROFILE FOR LIL UPDATES
+I'LL UPDATE MY PROFILE FOR LIL UPDATES 
+
+cringe but kind of special so i kept this (i was a freshman here)
 
