@@ -105,10 +105,6 @@ CS student at **MSEUF**, DOST-SEI Merit Scholar, and President of the MSEUF DOST
 | [**Palakaya**](https://github.com/jhonlloydval/Palakaya) | Catch-logging and fair-price marketplace connecting municipal fisherfolk to buyers, with anonymized data for BFAR and LGUs | SwiftUI, SwiftData |
 | [**Haive**](https://github.com/jhonlloydval/Haive) | 13 task-specific AI assistants with a RAG fact checker and no-code tool builder, running fully local. openIT Data Science Bootcamp capstone | Python, Streamlit, Ollama, ChromaDB |
 | [**Hakbang**](https://github.com/jhonlloydval/Project_Hakbang) | College guidance app for Filipino senior high students: college discovery, scholarship matching, AI counselor (Gabay). Live on Render | Flutter, Node.js |
-| [**RapidRail**](https://github.com/jhonlloydval/RapidRail) | Digital ticketing and kiosk verification prototype for the North-South Commuter Railway | Java, MySQL |
-| [**Portfolio**](https://github.com/jhonlloydval/jhonlloydval_mobile_portfolio) | Multi-platform Flutter portfolio with 20 themes | Flutter, Dart |
-
-More on my [GitHub](https://github.com/jhonlloydval?tab=repositories): EU-WALL, BarterBoard, ABTCares and earlier work.
 
 ## Recognition
 
